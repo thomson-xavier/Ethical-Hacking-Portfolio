@@ -42,13 +42,6 @@ This repository showcases my skills, tools, methodologies, and practical work in
 
 ---
 
-## 📚 Knowledge Base
-- [OWASP Testing Guide Notes](notes/OWASP-Testing-Guide.md)
-- [Privilege Escalation Cheat Sheet](notes/PrivEsc-CheatSheet.md)
-- [Common Payloads & Exploits](notes/Payloads.md)
-
----
-
 ## 🌐 Connect With Me
 - LinkedIn: [Your Profile](https://linkedin.com/in/badge-breaker)
 - Email: thomsonxavier0@gmail.com
